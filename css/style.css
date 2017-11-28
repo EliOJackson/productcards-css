@@ -1,0 +1,9 @@
+/** card styling **/
+article {
+    width: 30%;
+    border: 1px solid lightblue;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
