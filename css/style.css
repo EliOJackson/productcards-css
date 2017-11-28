@@ -3,7 +3,33 @@ article {
     width: 30%;
     border: 1px solid lightblue;
 }
+
 .flex {
     display: flex;
     flex-wrap: wrap;
+}
+
+article h2 {
+    border: 1px dotted lightgray;
+    text-align: center;
+}
+
+.product {
+    /* position: center; */
+    margin: auto;
+   
+}
+
+.description {
+    text-align: justify;
+}
+
+.boom p {
+    font-weight: bold;
+} 
+
+.avail {
+    background-color: darkgray;
+    color: yellow;
+    margin: auto;
 }
